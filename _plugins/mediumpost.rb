@@ -12,6 +12,9 @@ module Jekyll
     priority :high
 
     def generate(site)
+      generate =  ENV["GENERATE"]
+      return unless generate == 'true'
+
       username = ENV["MEDIUM_USERNAME"]
       raise CustomError.new(username), "medium username cannot blank" if username.nil?
 

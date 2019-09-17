@@ -4,6 +4,8 @@
 
 
 Run export MEDIUM_USERNAME=kusumandaru
+Run export GENERATE=true
+
 than run bundle exec jekyll build
 
 
