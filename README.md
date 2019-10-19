@@ -1,5 +1,7 @@
 # Mediumish - Jekyll Theme
 
+<img src="https://ci.appveyor.com/api/projects/status/github/kusumandaru/medium-rss?branch=master&svg=true">
+
 [Live Demo](https://kusumandaru.com) &nbsp; | &nbsp; [Download](https://github.com/kusumandaru/medium-rss) &nbsp; | &nbsp; 
 
 - Run export MEDIUM_USERNAME=kusumandaru
