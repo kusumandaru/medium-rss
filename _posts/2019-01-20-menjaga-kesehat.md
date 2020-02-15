@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menjaga kesehatan sebagai software engineer
-author: angga kusumandaru
+author: ndaru
 categories: ["engineer", "developer", "health", "work-life-balance"]
 image: https://cdn-images-1.medium.com/max/1024/1*sV0dEBrBA96ZFisY6Z5Cbw.jpeg
 featured: true

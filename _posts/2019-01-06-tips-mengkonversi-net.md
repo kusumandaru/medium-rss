@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips mengkonversi .Net Framework ke .Net Core
-author: angga kusumandaru
+author: ndaru
 categories: ["Dotnet Core", "Convert", "Dotnet"]
 image: https://cdn-images-1.medium.com/max/1024/1*_nypnJvULfcnQ5AbsYfMcQ.png
 featured: false

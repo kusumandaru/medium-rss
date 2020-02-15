@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memetik ilmu dari pemogram senior
-author: angga kusumandaru
+author: ndaru
 categories: ["software-development", "technology", "experience"]
 image: https://miro.medium.com/max/1152/1*8Ak7RPdV2bxbU5lw-2Eing.jpeg
 featured: true

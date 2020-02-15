@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manfaat masjid dekat kantor
-author: angga kusumandaru
+author: ndaru
 categories: ["Walking", "Work Life Balance"]
 image: https://cdn-images-1.medium.com/max/1024/1*0M0CqBI-gbkQr5EfaHc2Dg.png
 featured: false

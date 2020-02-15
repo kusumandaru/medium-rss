@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How we rewrite our code without customer aware and uninterrupted business
-author: angga kusumandaru
+author: ndaru
 categories: ["migration", "rebuild", "continuous-integration", "startup"]
 image: https://cdn-images-1.medium.com/max/1024/1*2jmbYRYsAY7XWW1FWJ7V8Q.jpeg
 featured: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solve initializer is trying to connect db on rake assets:precompile
-author: angga kusumandaru
+author: ndaru
 categories: ["Ruby on rails", "Initializer"]
 image: https://cdn-images-1.medium.com/max/2048/1*8uE4fGeueN23XR84nQLJDA.png
 featured: false

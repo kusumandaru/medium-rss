@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to clone medium story into custom domain
-author: angga kusumandaru
+author: ndaru
 categories: ["rss-feeds", "médium", "jekyll", "clone-data"]
 image: https://cdn-images-1.medium.com/max/1024/1*5aLb7BKRDdMgLyCCEBwE9g.png
 ---

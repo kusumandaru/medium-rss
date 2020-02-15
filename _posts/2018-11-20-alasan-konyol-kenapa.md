@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menggunakan macbook pro seharga 600 ribu
-author: angga kusumandaru
+author: ndaru
 categories: ["Macbook Pro", "Price Discover"]
 image: https://cdn-images-1.medium.com/max/2000/0*Jjfl1kmAcXX_3P1R.jpg
 featured: false

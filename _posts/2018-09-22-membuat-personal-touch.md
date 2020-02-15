@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menggunakan macbook pro seharga 600 ribu
-author: angga kusumandaru
+author: ndaru
 categories: ["Vscode", "Touch Bar", "Ruby on Rails"]
 image: https://miro.medium.com/max/1125/1*JfjtG0s419RtEZk-nuF93w.png
 featured: false

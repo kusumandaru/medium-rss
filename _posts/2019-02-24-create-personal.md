@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create personal website on second
-author: angga kusumandaru
+author: ndaru
 categories: ["ssl", "github-pages", "custom-domain", "jekyll"]
 image: https://cdn-images-1.medium.com/max/1024/1*uGUWRoXNAh3w0_xMd0nWIA.png
 ---

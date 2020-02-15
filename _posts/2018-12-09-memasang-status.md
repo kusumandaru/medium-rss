@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memasang status build aplikasi pada github
-author: angga kusumandaru
+author: ndaru
 categories: ["Github", "Status", Repositories", "Dotnet Core", "Pipeline"]
 image: https://miro.medium.com/max/1076/1*N-bToix9t6hG0qFKzf91pw.png
 featured: false

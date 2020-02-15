@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build docker image from github repository
-author: angga kusumandaru
+author: ndaru
 categories: ["Docker", "Github"]
 image: https://cdn-images-1.medium.com/max/4212/1*QCFJcnmMnwZ1DZJpjfk0OQ.png
 featured: false

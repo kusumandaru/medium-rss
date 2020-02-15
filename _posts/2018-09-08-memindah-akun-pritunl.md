@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memindah akun Pritunl
-author: angga kusumandaru
+author: ndaru
 categories: ["Pritunl", "Copy"]
 image: https://cdn-images-1.medium.com/max/2000/1*z7m0an3TB8LtMegn6xZ6LA.png
 featured: false

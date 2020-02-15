@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Budaya beracun dalam pengembangan aplikasi
-author: angga kusumandaru
+author: ndaru
 categories: ["programming", "work-life-balance", "toxic"]
 image: https://cdn-images-1.medium.com/max/650/0*g1vh_Ec2rEFXsyS8.jpg
 featured: true

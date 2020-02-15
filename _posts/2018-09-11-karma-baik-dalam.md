@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Karma baik dalam unit Testing
-author: angga kusumandaru
+author: ndaru
 categories: ["Unit Testing", "Karma", "Software Development", "Software Engineering"]
 image: https://miro.medium.com/max/4475/1*HHDukZRJntS_i2nc9ouNrQ.png
 featured: true

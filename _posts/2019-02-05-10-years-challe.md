@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 years challenge di pusaran ekonomi
-author: angga kusumandaru
+author: ndaru
 categories: ["10yearchallenge", "ekonomi", "harga"]
 image: https://cdn-images-1.medium.com/max/1024/1*wmk_wtNYSGENCHd-XYblhA.png
 ---

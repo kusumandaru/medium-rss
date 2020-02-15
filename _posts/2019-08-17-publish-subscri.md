@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publish subscribe on ruby on rails
-author: angga kusumandaru
+author: ndaru
 categories: ["publish-subscribe", "ruby-on-rails", "rabbitmq"]
 image: https://cdn-images-1.medium.com/max/1024/1*23WsqANJv5IS4ar-LGU2sw.jpeg
 ---

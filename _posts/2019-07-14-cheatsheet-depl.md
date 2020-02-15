@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cheatsheet Deploy and Test in Pipeline for any language
-author: angga kusumandaru
+author: ndaru
 categories: ["build", "pipeline", "test", "continous-integration"]
 image: https://cdn-images-1.medium.com/max/1024/1*GeFpt4wx9aTUUsUULB8dkA.jpeg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aplikasi lebih dari dokumentasi, tepatkah?
-author: angga kusumandaru
+author: ndaru
 categories: ["agile", "software-development", "documentation"]
 image: https://cdn-images-1.medium.com/max/1024/1*tRKc9_iyJlzFC-o1OYhnYw.jpeg
 featured: true
