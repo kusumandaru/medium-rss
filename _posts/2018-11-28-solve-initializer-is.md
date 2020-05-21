@@ -13,7 +13,7 @@ Sometimes, you need load connection on db using initializer/ on Ruby on rails. F
 
 To avoid this only on rake assets, we search where file [located](https://github.com/rails/sprockets-rails/blob/master/lib/sprockets/rails/task.rb). than we skip using !defined?(selected_class)
 
- <iframe src="https://medium.com/media/dd6a5ac148f5e2a952a301c39d326639" frameborder=0></iframe>
+<script src="https://gist.github.com/kusumandaru/b6b25b408742f74ff9daa006018c9ffe.js"></script>
 
 Finally, when we running rake assets:precompile, we skip block code to execute.
 

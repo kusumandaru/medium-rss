@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menggunakan macbook pro seharga 600 ribu
+title: Membuat personal touchbar
 author: ndaru
 categories: ["Vscode", "Touch Bar", "Ruby on Rails"]
 image: https://miro.medium.com/max/1125/1*JfjtG0s419RtEZk-nuF93w.png
@@ -36,7 +36,7 @@ lalu buka menggunakan perintah code rails-touchbar
 
 ***package.json***
 
- <iframe src="https://medium.com/media/6053f0054699f3ee7bca086f12a3479b" frameborder=0></iframe>
+ <script src="https://gist.github.com/kusumandaru/9fb592f53243f53e9deccff5ee607fa8.js"></script>
 
 Pada sesi activationEvents : pilih '*' untuk auto load semua modul
 
@@ -58,7 +58,7 @@ Pada bagian touchBar terbagi menjadi beberapa aspek:
 
 ***extension.ts***
 
- <iframe src="https://medium.com/media/ca9af3756489466c5b1ca9e2eff6063d" frameborder=0></iframe>
+<script src="https://gist.github.com/kusumandaru/d6165045696a329741c8d5d66575c927.js"></script>
 
 Disini kita memasang extension yang ingin dipasang:
 
