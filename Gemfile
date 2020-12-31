@@ -6,7 +6,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-ruby '2.3.3'
+ruby '2.7.0'
 
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
+gem 'kramdown-parser-gfm'
 gem 'feedjira'
 gem 'httparty'
 gem 'activesupport'
