@@ -1,3 +1,4 @@
+image: Visual Studio 2019
 version: 1.0.{build}
 
 skip_tags: true
@@ -9,11 +10,12 @@ environment:
   access_token:
     secure: MUwzEeu3LgJ7eEBuF1mBJHcd6uWWxvEFRpLVQbLEem7fGBEJs9c7hThRshic+M1h
   MEDIUM_USERNAME: kusumandaru
-  GENERATE: true
+  GENERATE: false
 install:
-  - SET SSL_CERT_FILE=C:/ruby24-x64/ssl/cert.pem
-  - SET PATH=C:\Ruby%ruby_version%\bin;%PATH%
-  - gem install bundler
-  - bundle install --retry=3
+  - SET PATH=C:\ruby%ruby_version%\bin;%PATH%
+  - ruby --version
+  - gem --version
+  - gem install bundler --conservative
+  - bundle config --local path vendor/bundle
+  - bundle install
 build: off
-test: off
