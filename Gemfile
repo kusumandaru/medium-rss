@@ -6,7 +6,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-ruby '2.7.0'
+ruby '2.3.3'
 
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
