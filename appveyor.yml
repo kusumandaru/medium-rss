@@ -15,7 +15,7 @@ install:
   - SET PATH=C:\ruby%ruby_version%\bin;%PATH%
   - ruby --version
   - gem --version
-  - gem install bundler --conservative
+  - gem install bundler --conservative -v '~> 2.2.3'
   - bundle config --local path vendor/bundle
-  - bundle install -v '~> 2.2.3'
+  - bundle install
 build: off
