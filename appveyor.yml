@@ -5,8 +5,8 @@ skip_tags: true
 
 environment:
   matrix:
-    - ruby_version: "271"
-    - ruby_version: "271-x64"
+    - ruby_version: "27"
+    - ruby_version: "27-x64"
   access_token:
     secure: MUwzEeu3LgJ7eEBuF1mBJHcd6uWWxvEFRpLVQbLEem7fGBEJs9c7hThRshic+M1h
   MEDIUM_USERNAME: kusumandaru
