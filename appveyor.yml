@@ -17,5 +17,5 @@ install:
   - gem --version
   - gem install bundler --conservative
   - bundle config --local path vendor/bundle
-  - bundle install
+  - bundle install -v '~> 2.2.3'
 build: off
